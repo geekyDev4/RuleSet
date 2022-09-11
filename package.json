@@ -1,0 +1,17 @@
+{
+  "name": "code_challenge_kamaldeep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "options.js",
+  "scripts": {
+    "test": "mocha ./test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.6"
+  }
+}
